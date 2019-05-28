@@ -1,0 +1,7 @@
+metal
+klasyczna
+country
+rock
+pop
+rb
+hiphop

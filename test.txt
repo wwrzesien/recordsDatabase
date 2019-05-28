@@ -1,0 +1,5 @@
+add-c mama
+add-c tata
+add-c syn
+save katalog
+end
